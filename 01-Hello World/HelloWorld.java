@@ -8,5 +8,7 @@ public class HelloWorld {
     public static void main(String[] args)
     {
         System.out.println("Hello, World");
-    }
+system.out.println("My name is Bhoke")
+System.out.println("Course Name Java");
+        System.out.println("Course Code Csc 200"); 
 }
